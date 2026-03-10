@@ -16,4 +16,5 @@ Candidates: MH60, NACA 0009, NACA 0012, SD7037, CLARK Y, Davissm, WORTMANN FX 63
 **3D Airfoil Comparison**
 Candidates: Hybrid of 65% CLARK Y and 35% WFX; Davissm, Clark Y, WFX
 
-<>
+<p align="center">
+  <img src-""  width=""  />
