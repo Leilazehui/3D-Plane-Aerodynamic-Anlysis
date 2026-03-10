@@ -18,5 +18,5 @@ Candidates: Hybrid of 65% CLARK Y and 35% WFX; Davissm, Clark Y, WFX
 
 <p align="center">
   <img src="https://github.com/Leilazehui/3D-Plane-Aerodynamic-Anlysis/blob/main/Assets/Coefficient%20of%20Lift-Drag%20Ratio%20vs%20Angle%20of%20Attack.png"  width="40%"  />
-  <img src="https://github.com/Leilazehui/3D-Plane-Aerodynamic-Anlysis/blob/main/Assets/Coefficient%20of%20Drag%20vs%20Angle%20of%20Attack.png"  width="50%"  />
+  <img src="https://github.com/Leilazehui/3D-Plane-Aerodynamic-Anlysis/blob/main/Assets/Coefficient%20of%20Drag%20vs%20Angle%20of%20Attack.png"  width="45%"  />
 </p>
