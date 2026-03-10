@@ -3,7 +3,7 @@
 **Tool**: XFLR5, MATLAB
 
 **2D Airfoil Comparison**
-Candidates: MH60, NACA 0009, NACA 0012, SD7037, CLARK Y, Davissm, WORTMANN FX 63-137
+Candidates: MH60, NACA 0009, NACA 0012, SD7037, CLARK Y, Davissm, WORTMANN FX 63-137 (WFX)
 
 <p align="center">
   <img src="https://github.com/Leilazehui/3D-Plane-Aerodynamic-Anlysis/blob/main/Assets/CL-CD-XFLR5.png" width="40%"  />
@@ -14,4 +14,6 @@ Candidates: MH60, NACA 0009, NACA 0012, SD7037, CLARK Y, Davissm, WORTMANN FX 63
 
 
 **3D Airfoil Comparison**
-Candidates: 
+Candidates: Hybrid of 65% CLARK Y and 35% WFX; Davissm, Clark Y, WFX
+
+<>
