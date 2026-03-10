@@ -25,6 +25,8 @@ In Xflr5 Aanalysis, the data of CL, CD, CM and other parameters when the angle o
 L =  66N
 D = 1.2N
 
-While in CFD analysis on Ansys, without the landing gear, the final value for the L and D is:
+While in CFD analysis on Ansys, without the landing gear, the simulated value for the L and D is:
 L = 41N
 d = 5.6N
+
+Difference: in XFLR5, only the main wing and tail wing are considered in the CFD simulation, while in ANSYS, the fuselage, main wing and tail wing are considered.
